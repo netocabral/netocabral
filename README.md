@@ -1,4 +1,4 @@
-### Olá! me chamo Hélio Neto sou Engenheiro da Computação e estudante de programação   👋
+### Olá! me chamo Hélio Neto sou Engenheiro da Computação e estudante de programação!  👋
 
 - Estudando Kotlin e PEGASYSTEM
 
