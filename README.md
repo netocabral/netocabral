@@ -1,6 +1,6 @@
 ### Olá! me chamo Hélio Neto sou Engenheiro da Computação e estudante de programação!  👋
 
-- Estudando Kotlin e PEGASYSTEM
+- Estudando Kotlin, PEGASYSTEM e JAVA
 
 <div align="center">
   <a href="https://github.com/netocabral">
